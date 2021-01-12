@@ -1,10 +1,10 @@
-#Work on project. Stage 5/6: Converting fractions
+# Work on project. Stage 5/6: Converting fractions
 
-##Description
+## Description
 
 Fractional numbers can also be converted from one base to another. To convert a fractional number to another base, you should use the algorithm described below.
 
-##Algorithm
+## Algorithm
 
 As you know from the previous stage, in order to convert a number from one base to another, first, we need to convert it to decimal if it’s not decimal yet, and only then convert it to another base. The same applies to fractional numbers.
 Let’s imagine you have a fractional number __*ab.cdef*__ where __*ab*__ is the integer part, __*cdef*__ is the fractional part, and __*a,b,c,d,e,f*__  are some digits or letters, depending on the base of the number.
